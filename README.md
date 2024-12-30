@@ -2,7 +2,7 @@
 
 ## Background
 
-You can find the instructions for this lab [here](https://morethanequations.com/Computer-Science/Labs/2024-12-17-resistance-is-everything). Update `resistance.cpp` with the code for your submission.
+You can find the instructions for this lab [here](https://morethanequations.com/Computer-Science/Labs/resistance-is-everything). Update `resistance.cpp` with the code for your submission.
 
 ## (Optional) CMake Setup
 
